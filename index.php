@@ -2,5 +2,5 @@
 $n = "hello";
 $m = "aswar";
 
-echo "$n.$m";
+echo "$n $m";
 ?>
